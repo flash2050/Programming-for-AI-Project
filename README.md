@@ -4,4 +4,4 @@
 
 #### The project team members are Noel Viji Thaliath and Ayush Singh.
 
-We are initially planning to use LSTM and some other layers for the prediction model.
+We are using a custom LSTM+GRU model and some other layers for the machine learning stock prediction.
